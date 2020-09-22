@@ -103,7 +103,7 @@
       <img src="Cangkir.jpg" class="img-responsive margin" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-4"> 
-      <p>Libraries as institutions that provide information always strive to be the leading source of reference in various fields of science, both in the Islamic field and in the general field for academic and scientific research purposes. Sometimes the Gramedia Bintaro Plaza Bookstore holds a cheap book exhibition entitled "Gramedia Book Fair" on the front page of the UIN Jakarta Library Center. </p>
+      <p>Libraries as institutions that provide information always strive to be the leading source of reference in various fields of science, both in the Islamic field and in the general field for academic and scientific research purposes. Sometimes the Gramedia Bintaro Plaza Bookstore holds a cheap book exhibition entitled "Gramedia Book Fair" on the front page of the UIN Jakarta Library Center. Apart from the Library Center, there are several Faculty libraries scattered around the Syarif Hidayatullah UIN Jakarta. The faculty library is part of the learning system within the faculty, and therefore serves as a learning base that functions as a Library and Learning Resources Center (LLRC). </p>
       <img src="Perpustakaan.jpg" class="img-responsive margin" style="width:100%" alt="Image">
     </div>
   </div>
