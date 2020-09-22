@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Theme Made By www.w3schools.com - No Copyright -->
-  <title>Static Page by Anggi</title>
+  <title>Tugas Cloud by Anggi</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -103,7 +102,7 @@
       <img src="Cangkir.jpg" class="img-responsive margin" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-4"> 
-      <p>Libraries as institutions that provide information always strive to be the leading source of reference in various fields of science, both in the Islamic field and in the general field for academic and scientific research purposes. Sometimes the Gramedia Bintaro Plaza Bookstore holds a cheap book exhibition entitled "Gramedia Book Fair" on the front page of the UIN Jakarta Library Center. Apart from the Library Center, there are several Faculty libraries scattered around the Syarif Hidayatullah UIN Jakarta. The faculty library is part of the learning system within the faculty, and therefore serves as a learning base that functions as a Library and Learning Resources Center (LLRC). </p>
+      <p>Libraries as institutions that provide information always strive to be the leading source of reference in various fields of science, both in the Islamic field and in the general field for academic and scientific research purposes. Sometimes the Gramedia Bintaro Plaza Bookstore holds a cheap book exhibition entitled "Gramedia Book Fair" on the front page of the Library Center. Apart from the Library Center, there are several Faculty libraries scattered around the campus. The faculty library is part of the learning system within the faculty, and therefore serves as a learning base that functions as a Library and Learning Resources Center (LLRC). </p>
       <img src="Perpustakaan.jpg" class="img-responsive margin" style="width:100%" alt="Image">
     </div>
   </div>
@@ -111,7 +110,7 @@
 
 <!-- Footer -->
 <footer class="container-fluid bg-4 text-center">
-  <p>Contact Me On Instagram <a href="https://wwww.instagram.com/farrahanggia">Farrahanggia</a></p> 
+  <p>Contact Me On Instagram <a href="https://wwww.instagram.com/farrahanggia/">Farrahanggia</a></p> 
 </footer>
 
 </body>
