@@ -110,7 +110,7 @@
 
 <!-- Footer -->
 <footer class="container-fluid bg-4 text-center">
-  <p>Contact Me On Instagram <a href="https://wwww.instagram.com/farrahanggia/">Farrahanggia</a></p> 
+  <p>Contact Me On Instagram <a href="https://www.instagram.com/farrahanggia/">Farrahanggia</a></p> 
 </footer>
 
 </body>
